@@ -11,9 +11,8 @@ public class Main {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		
-		Divisions div = new Divisions('a',"Primeiro");
 		Admin admin1 = new Admin();
-		admin1.addNewDivision(div);
+//		admin1.addNewDivision(div);
 //		System.out.println(admin1.toString());
 		
 		
